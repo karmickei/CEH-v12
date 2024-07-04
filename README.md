@@ -1,4 +1,4 @@
-# CEH v12
+# CEH v12 Study Notes
 
 ## About
 - :notebook: Study notes for the EC-Council Certified Ethical Hacker (C|EH) v12 exam 
