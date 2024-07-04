@@ -10,6 +10,25 @@
 - :star: Star the repository if you found these notes useful.
 - :raised_hands: Feel free to contribute by raising a [pull request](https://github.com/karmickei/CEH-v12/pulls) to this repository! A list of contributors will be maintained.
 
+## Tips For Earning a CEH Certification
+You need dedicated effort and thoughtful planning to obtain the CEH certification. To help you further, consider the following tips while you prepare for your CEH certificate exam:
+
+## Understand the Basics
+Start by familiarizing yourself with basic concepts of cybersecurity. This should include understanding networks, operating systems, and common security vulnerabilities. Before diving into CEH certification, you must grasp fundamental cybersecurity principles. This ensures you are not overwhelmed by the material presented in the CEH course. Moreover, familiarity with networks, operating systems, and vulnerabilities will help you navigate the more advanced topics covered in the certification.
+
+## Enroll in a CEH Course
+If you want formal training, look for accredited training providers offering Certified Ethical Hacker courses. These courses should cover all the topics included in the CEH exam blueprint. You should take a CEH course from a reputable provider for comprehensive preparation. This ensures that you are learning well! 
+
+## Practice
+Any exam requires regular practice and dedication. Practicing frequently in virtual laboratories and CTF challenges enables you to use your knowledge in practical settings. Practical experience is crucial for developing your self-assurance and skill in ethical hacking methods. 
+
+## Stay Updated
+Keeping yourself updated is always a good idea. Learn about the changes in the cybersecurity world and keep your tabs on the rising trends and practices.
+
+## Join a Study Group
+Join a study group of like-minded people on the same path as you. You can join a community to share questions, and doubts and help each other solve probable questions. Preparing together will give you the confidence to take the exam.
+
+
 ## Modules
 
 - [Module 01: Introduction to Ethical Hacking](module_01)
