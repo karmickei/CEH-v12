@@ -8,7 +8,7 @@
 
 ## Thank you!
 - :star: Star the repository if you found these notes useful.
-- :raised_hands: Feel free to contribute by raising a [pull request](https://github.com/SecureLine-Solutions-Pvt-Ltd/CEH-Guide-V12/pulls) to this repository! A list of contributors will be maintained.
+- :raised_hands: Feel free to contribute by raising a [pull request](https://github.com/karmickei/CEH-v12/pulls) to this repository! A list of contributors will be maintained.
 
 ## Modules
 
